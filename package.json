@@ -1,0 +1,30 @@
+{
+  "name": "telegram-expense-tracker",
+  "version": "1.0.0",
+  "description": "Telegram expense tracking bot with Google Sheets integration",
+  "main": "telegram-bot.js",
+  "scripts": {
+    "start": "node telegram-bot.js",
+    "demo": "node demo-telegram.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.64.0",
+    "googleapis": "^129.0.0"
+  },
+  "devDependencies": {
+    "vercel": "^32.7.2"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "keywords": [
+    "telegram",
+    "expense-tracker",
+    "google-sheets",
+    "bot",
+    "hebrew"
+  ],
+  "author": "",
+  "license": "MIT"
+}
