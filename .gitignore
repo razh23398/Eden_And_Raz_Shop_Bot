@@ -10,3 +10,4 @@ yarn-error.log*
 .vscode/
 *.tgz
 *.tar.gz
+edenrazshopbot-*.json
