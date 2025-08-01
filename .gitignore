@@ -11,3 +11,5 @@ yarn-error.log*
 *.tgz
 *.tar.gz
 edenrazshopbot-*.json
+.env.telegram.fixed
+*.env*
